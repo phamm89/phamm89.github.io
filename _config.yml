@@ -1,7 +1,8 @@
-title: Michael Pham's Portfolio # your name (or website title) here
+title: Michael Pham # your name (or website title) here
 logo: "/images/MichaelPham.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Welcome! I am a junior developer and recent graduate from Momentum Learning.
+  Welcome to my portfolio! I am a junior developer and recent graduate from Momentum Learning.
+  <br>
   <strong>Professional Profile</strong>: Servant leader with a passion to mentor and educate youth, empower people to solve problems through software development, and lifelong learner looking for the right opportunities.
   <strong>Skills</strong>: Full stack web development with Python (Django web framework), JavaScript, HTML5, CSS, and deployment of web applications using Heroku
   <br>
