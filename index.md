@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Recent Projects
 
-[Project 1 Title](/sample_page)
+[Project Impact](https://project-impact.herokuapp.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
