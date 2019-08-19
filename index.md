@@ -2,25 +2,25 @@
 
 ---
 
-### Recent Projects
+## Recent Projects
 
-[Project Impact](https://project-impact.herokuapp.com/)
+### [Project Impact](https://project-impact.herokuapp.com/)
 <img src="images/projectimpact.jpg?raw=true"/>
 
 ---
-[iTunes Music Search](https://phamm89-itunes.herokuapp.com/)
+### [iTunes Music Search](https://phamm89-itunes.herokuapp.com/)
 <img src="images/musicPic.jpg?raw=true"/>
 
 ---
-[Habit Tracker](https://teamdevin-habittracker.herokuapp.com/)
+### [Habit Tracker](https://teamdevin-habittracker.herokuapp.com/)
 <img src="images/HabitTracker.jpg?raw=true"/>
 
 ---
-[Freeshelf](https://phamm89-freeshelf.herokuapp.com/)
+### [Freeshelf](https://phamm89-freeshelf.herokuapp.com/)
 <img src="images/FreeShelf.jpg?raw=true"/>
 
 ---
-[Flying Towards Your Destiny Blog](https://flying-toward-your-destiny.herokuapp.com/)
+### [Flying Towards Your Destiny Blog](https://flying-toward-your-destiny.herokuapp.com/)
 <img src="images/HabitTracker.jpg?raw=true"/>
 
 ---
