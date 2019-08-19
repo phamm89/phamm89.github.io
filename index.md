@@ -29,7 +29,7 @@ Freeshelf is a database of programming books that you can reference by category.
 ## [Flying Towards Your Destiny Blog](https://flying-toward-your-destiny.herokuapp.com/)
 Flying Towards Your Destiny is a miniblog.
 
-<img src="images/HabitTracker.jpg?raw=true"/>
+<img src="images/BlogProject.jpg?raw=true"/>
 
 
 
