@@ -31,6 +31,11 @@ Flying Towards Your Destiny is a miniblog.
 
 <img src="images/BlogProject.jpg?raw=true"/>
 
+---
+## [Happy Valley Dog Adoption](https://phamm89-dogadoption.herokuapp.com/)
+Happy Valley Dog Adoption is a dog adoption page that was completed to practice HTML and CSS.
+
+<img src="images/BlogProject.jpg?raw=true"/>
 
 
 
