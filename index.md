@@ -14,19 +14,19 @@ The iTunes Music Search enables you to search for music and preview 30 second cl
 <img src="images/musicPic.jpg?raw=true"/>
 
 ---
-### [Habit Tracker](https://teamdevin-habittracker.herokuapp.com/)
+## [Habit Tracker](https://teamdevin-habittracker.herokuapp.com/)
 Habit Tracker allows you to keep track of your progress regarding habits you want to monitor on a regular basis.
 
 <img src="images/HabitTracker.jpg?raw=true"/>
 
 ---
-### [Freeshelf](https://phamm89-freeshelf.herokuapp.com/)
+## [Freeshelf](https://phamm89-freeshelf.herokuapp.com/)
 Freeshelf is a database of programming books that you can reference by category. You can also personalize your profile page by favoriting books you want to maintain on your personal page.
 
 <img src="images/FreeShelf.jpg?raw=true"/>
 
 ---
-### [Flying Towards Your Destiny Blog](https://flying-toward-your-destiny.herokuapp.com/)
+## [Flying Towards Your Destiny Blog](https://flying-toward-your-destiny.herokuapp.com/)
 Flying Towards Your Destiny is a miniblog.
 
 <img src="images/HabitTracker.jpg?raw=true"/>
