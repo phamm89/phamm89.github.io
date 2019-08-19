@@ -1,5 +1,5 @@
 # Portfolio
-In order to view the project, please click on the project titles.
+In order to view a project, please click on the project titles to be redirected to the app deployed on Heroku.
 
 ---
 ## [Project Impact](https://project-impact.herokuapp.com/)
