@@ -5,23 +5,23 @@
 ### Recent Projects
 
 [Project Impact](https://project-impact.herokuapp.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/projectimpact.png?raw=true"/>
 
 ---
 [iTunes Music Search](https://phamm89-itunes.herokuapp.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/musicPic.jpg?raw=true"/>
 
 ---
 [Habit Tracker](https://teamdevin-habittracker.herokuapp.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/HabitTracker.jpg?raw=true"/>
 
 ---
 [Freeshelf](https://phamm89-freeshelf.herokuapp.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/FreeShelf.jpg?raw=true"/>
 
 ---
 [Flying Towards Your Destiny Blog](https://flying-toward-your-destiny.herokuapp.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/HabitTracker.jpg?raw=true"/>
 
 ---
 
