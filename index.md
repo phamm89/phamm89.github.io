@@ -8,11 +8,19 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[iTunes Music Search](https://phamm89-itunes.herokuapp.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Habit Tracker](https://teamdevin-habittracker.herokuapp.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Freeshelf](https://phamm89-freeshelf.herokuapp.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Flying Towards Your Destiny Blog](https://flying-toward-your-destiny.herokuapp.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
