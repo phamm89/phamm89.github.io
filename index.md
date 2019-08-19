@@ -5,7 +5,7 @@
 ### Recent Projects
 
 [Project Impact](https://project-impact.herokuapp.com/)
-<img src="images/projectimpact.png?raw=true"/>
+<img src="images/projectimpact.jpg?raw=true"/>
 
 ---
 [iTunes Music Search](https://phamm89-itunes.herokuapp.com/)
