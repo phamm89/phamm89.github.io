@@ -14,6 +14,12 @@ The iTunes Music Search enables you to search for music and preview 30 second cl
 <img src="images/musicPic.jpg?raw=true"/>
 
 ---
+## [Calculator by Michael](https://phamm89-calculator.herokuapp.com/)
+My calculator can perform the same functionality as a simple calculator along with some functions of a scientific calculator.
+
+<img src="images/Calculator.jpg?raw=true"/>
+
+---
 ## [Habit Tracker](https://teamdevin-habittracker.herokuapp.com/)
 Habit Tracker allows you to keep track of your progress regarding habits you want to monitor on a regular basis.
 
