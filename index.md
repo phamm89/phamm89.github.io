@@ -20,6 +20,12 @@ My calculator can perform the same functionality as a simple calculator along wi
 <img src="images/Calculator.jpg?raw=true"/>
 
 ---
+## [Code Snippet Manager](https://team-otterside-codesnippet.herokuapp.com)
+Code Snippet Manager allows you to keep a record of code snippets you frequently use.
+
+<img src="images/CodeSnippet.jpg?raw=true"/>
+
+---
 ## [Habit Tracker](https://teamdevin-habittracker.herokuapp.com/)
 Habit Tracker allows you to keep track of your progress regarding habits you want to monitor on a regular basis.
 
